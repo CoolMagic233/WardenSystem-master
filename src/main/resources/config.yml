@@ -1,0 +1,14 @@
+command: "r"
+style:
+  ban: "§c您已被封禁\n解封时间: @time \n 申诉渠道: xxx"
+  kick: "§c您因违规被踢出服务器\n§b您仍可重新进入"
+  mute: "§c您已被禁言, 解封时间 @time"
+  warn: "§c请规范您的游戏行为, 你可能涉及@reason违规"
+  rp: "§e举报推送\n举报人:@rp\n被举报人:@p\n原因:@reason"
+# 可以使用实用工具
+dev: []
+admins: []
+staffs: []
+forbid_modify_worlds:
+  - world
+banned_execute_command: ""
